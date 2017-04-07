@@ -21,3 +21,6 @@
 #### 这样我们就能够动态模拟请求数据了，不需要每次都重新运行Xcode，只需要修改本地的json文件即可。
 ![image](https://github.com/sjxjjx/SimulateHttpRequestData/raw/master/Picture/006.png)
 ![image](https://github.com/sjxjjx/SimulateHttpRequestData/raw/master/Picture/007.png)
+![image](https://github.com/sjxjjx/SimulateHttpRequestData/raw/master/Picture/008.png)
+
+###注意：在修改本地json文件时，文件中的引号可能会被修改，所以千万要注意了！！！
