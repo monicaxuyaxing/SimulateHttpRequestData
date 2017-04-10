@@ -24,3 +24,5 @@
 ![image](https://github.com/sjxjjx/SimulateHttpRequestData/raw/master/Picture/008.png)
 
 ### 注意：在修改本地json文件时，文件中的引号可能会被修改，所以千万要注意了！！！
+
+博客文章：iOS项目之模拟请求数据<http://www.cnblogs.com/sjxjjx/p/6673323.html>
